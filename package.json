@@ -1,0 +1,24 @@
+{
+  "name": "torrenter",
+  "version": "1.0.0",
+  "description": "A bitTorrent cli client",
+  "main": "index.js",
+  "scripts": {
+    "test": "Can't, mocha ain't working yet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fyxerz/torrent.git"
+  },
+  "keywords": [
+    "bit",
+    "torrent",
+    "cli"
+  ],
+  "author": "Pedro Morales Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fyxerz/torrent/issues"
+  },
+  "homepage": "https://github.com/fyxerz/torrent#readme"
+}
